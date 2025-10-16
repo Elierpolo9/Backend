@@ -1,5 +1,3 @@
-**(Copia todo el archivo completo - es muy largo, te doy los comandos para descargarlo)**
-
 #### **2. requirements.txt**
 Action: file_editor view /app/backend/requirements.txt
 Observation: /app/backend/requirements.txt:
@@ -74,3 +72,4 @@ Observation: /app/backend/requirements.txt:
 69|uvicorn==0.25.0
 70|watchfiles==1.1.0
 71|
+
